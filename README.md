@@ -1,31 +1,126 @@
 <div align="center">
-    <img src="Gif/Hello.gif" align="center" height="" width="500" />
+
+# Hi, I'm Youcef Boualili 👋
+
+### Computer Science Master's student focused on Cloud Security, DevSecOps and Kubernetes Security
+
+I build hands-on security projects around AWS, Kubernetes, CI/CD, automation and secure infrastructure.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youcef%20Boualili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youcef-boualili)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youcefboualili0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-youcefboualili.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://youcefboualili.vercel.app/)
+
 </div>
 
-# 💫 About Me:
-<p align="center">
-  🔭 I'm currently working on my <a href="https://github.com/Boualili-Youcef/Mini_Compiler"> Mini Compiler</a> && <a href="https://github.com/Boualili-Youcef/MyGit">MyGit</a> <br>
-  🌱 I'm currently learning the basics of cybersecurity and cloud technologies, including tools like Docker, Ansible, and essential cybersec utilities. <br>
-  ⚡ I'm just getting started with cybersecurity and cloud — the journey is about to begin! 🚀🔐☁️<br>
-  💡 Fun Fact :
-    I love coding — low-level, high-level, anywhere in between.  Compilers? Love them. Systems? Count me in.  <br>
-But mention the Herbrand guy or first-order logic, and I'm out. 🏃‍♂️💨  <br>
-Seriously though... who the hell understands that stuff anyway?
+---
 
-</p>
+## About me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youcef-boualili) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youcefboualili0@gmail.com) 
+I'm a Computer Science student specializing in **Cloud Computing and Cybersecurity**, with a strong interest in **Cloud Security**, **DevSecOps**, **Kubernetes**, and **secure infrastructure automation**.
 
+My goal is to build practical and realistic projects that show real technical skills: securing Kubernetes workloads, automating cloud security checks, understanding Linux and networking deeply, and applying DevSecOps practices in real-world environments.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
+Currently, I am focusing on:
 
+- Kubernetes security: RBAC, NetworkPolicies, admission control, runtime detection and policy enforcement
+- Cloud security on AWS: IAM, S3, EC2, misconfiguration detection and security automation
+- DevOps fundamentals: Docker, CI/CD, GitHub Actions, Linux, Bash and infrastructure tooling
+- Interview preparation for Cloud Security, DevSecOps and Platform Security roles
 
-![](https://nirzak-streak-stats.vercel.app/?user=Boualili-Youcef&theme=dark&hide_border=true)<br/>
+---
 
+## Featured projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Boualili-Youcef/k8s-sec-lab">k8s-sec-lab</a></h3>
+      <p>
+        Kubernetes DevSecOps lab demonstrating how to secure a cluster using RBAC, OPA/Conftest, Gatekeeper, Kyverno, Falco, NetworkPolicies and GitHub Actions.
+      </p>
+      <p><strong>Focus:</strong> Kubernetes Security, DevSecOps, CI/CD, Policy-as-Code</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Boualili-Youcef/CloudSecVision">CloudSecVision</a></h3>
+      <p>
+        AWS security scanner with AI-assisted analysis for IAM, S3 and EC2 risks, including automated recommendations and an interactive dashboard.
+      </p>
+      <p><strong>Focus:</strong> AWS Security, Python, Automation, Cloud Misconfigurations</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Boualili-Youcef/secure-card-vault-poc">secure-card-vault-poc</a></h3>
+      <p>
+        Secure digital vault proof of concept using AES-256-GCM, RSA/OAEP and Argon2id to protect sensitive banking data.
+      </p>
+      <p><strong>Focus:</strong> Cryptography, Secure Backend Design, Data Protection</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Boualili-Youcef/Mini_Compiler">Mini Compiler</a></h3>
+      <p>
+        Educational compiler project that transforms a simple language into x86_64 assembly code.
+      </p>
+      <p><strong>Focus:</strong> C++, Compilers, Systems Programming</p>
+    </td>
+  </tr>
+</table>
 
+---
+
+## Technical skills
+
+### Cloud, DevOps and Security
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Programming and backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Data and tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+## What I'm building right now
+
+- Strengthening my Kubernetes security lab with realistic DevSecOps scenarios
+- Preparing for cloud and DevSecOps internship interviews
+- Building AWS security automation projects
+- Improving my Linux, networking and Kubernetes foundations
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Boualili-Youcef&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+### Open to internship opportunities in Cloud Security, DevSecOps and Platform Security.
+
+</div>
