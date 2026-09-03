@@ -8,7 +8,7 @@ I build hands-on security projects around AWS, Kubernetes, CI/CD, automation and
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Youcef%20Boualili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youcef-boualili)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youcefboualili0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-youcefboualili.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://youcef-boualili.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-youcefboualili.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://youcefboualili.vercel.app/)
 
 </div>
 
